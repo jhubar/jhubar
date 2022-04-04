@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<h1 align="center">Welcome 🤗, I'm Julien Hubar</h1>
+<h3 align="center">A passionate AI and ML Engineer from Belgium</h3>
+
+- 🔭 I’m currently working at [Billy.tech](https://billy.tech) 
+
+- 🌱 I’m currently learning **Transformers finetuning**
+
+- 📫 How to reach me **hubarjulien@gmail.com**
+
 <!--
 **jhubar/jhubar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
