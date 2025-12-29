@@ -3,7 +3,7 @@
 <h1 align="center">Welcome 🤗, I'm Julien Hubar</h1>
 <h3 align="center">A passionate AI and ML Engineer from Belgium</h3>
 
-- 🔭 I’m currently working at [Pepite](https://www.pepite.com) 
+- 🔭 I’m currently working at [CDN AUtomobiles]([(https://www.centrededepollutionliege.be/depollution-de-voitures)]) 
 
 - 🌱 I’m currently learning **anomaly detection with multivariate time series as input**
 
